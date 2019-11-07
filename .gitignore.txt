@@ -1,4 +1,0 @@
-*.pyc
-__pyache__
-db.sqlite3
-venv
